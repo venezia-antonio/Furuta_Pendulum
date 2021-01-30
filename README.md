@@ -7,5 +7,5 @@ Moreover, if you are interested to how implement a PID, the function "calculate 
 Authors:
 CARAMIA Donato, D'ALESSANDRO Vito Ivano, SOLETI Giovanni, VENEZIA Antonio.
 
-For any questions you could write me at: g.soleti97@gmail.com or in DM.
+
 
